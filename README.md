@@ -2,8 +2,7 @@
 JSP upload image and show it in JSP page. JSP / Servlet / MySql / Eclipse jee neon / Apache Tomcat 7
 
 
---
--- Create schema : jspimage
+Create schema : jspimage
 --
 
 CREATE DATABASE IF NOT EXISTS jspimage;
@@ -11,8 +10,7 @@ USE jspimage;
 
 
 
---
--- Create table : image_tbl
+Create table : image_tbl
 --
 
 DROP TABLE IF EXISTS `image_tbl`;
